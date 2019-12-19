@@ -1,0 +1,14 @@
+Values used in Simulation are the following:
+
+Simulation time step: 0.1
+
+
+X1_initial = 0.01
+R1 = 1.5
+Alpha12= 1.1
+K1 = 1.2
+
+X2_initial = 0.02
+R2 = 1.6
+Alpha21= 1.4
+K2 = 1.3
